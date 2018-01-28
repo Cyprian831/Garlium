@@ -64,6 +64,8 @@ Go to `view > Show Coins`
 and `view> Show Addresses`
 In addresses, on the top left go to "Receiving" and change it to "Change"
 
+going to View -> Show Coins. Every "coin" you see there is a UTXO. Select as many as you need to send (don't select more than about 250, though), right click, and press "Spend". Now, select how much you want to spend, and send your money either to yourself (to "merge" UTXOs), or to someone else (they'll receive them as a normal transaction).
+
 ## Absurdly high fees
 
 Go to ` ``view > Show Coins`` `
