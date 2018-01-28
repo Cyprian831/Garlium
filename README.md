@@ -97,4 +97,4 @@ After you download this open it with 7zip or Winrar and extract the files inside
 
 If you've already done this and it doesn't work, then backup your wallet, save your key and seed, and reinstall
 
-###### [take me back to the hub!](https://cyprian831.github.io/Garlicoin/)
+###### [Take me back to the hub!](https://cyprian831.github.io/Garlicoin/)
