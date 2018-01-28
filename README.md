@@ -42,18 +42,18 @@ Pools are at the bottom of this page:https://xske.github.io/garlium/
 
 ~~~~~~~~Possible redo of above, awaiting response.~~~~~~~~
 
-In Garlium, go to `Tools>Network>Server` Uncheck "Select Server Automatically"
+In Garlium, go to ` ``Tools>Network>Server`` ` Uncheck "Select Server Automatically"
 Grab one of the listed servers (I Suggest `electrum.garlicsoup.xyz 50002`) and insert it in the `Server:` Box.
 Click close and restart Garlium, then wait 2~ minutes. If failed, repeat with another server. If none of these work
 check the "Select Servers Automatically" box and restart Garlium.
 
 ## For "Server is Lagging"
  
-Press `Win + R` and enter %appdata%/Garlium and delete blockchain_headers
+Press `Win + R` and enter %appdata%/Garlium and delete ` ``blockchain_headers`` `
  
 ## For people who are asking why their address changed in their receive tab
  
-Your old address is still there. Go to View -> Show addresses
+Your old address is still there. Go to ` ``View -> Show addresses`` `
 The switching thing is for anonymity on the receive tab
 Cause you can use the QR code to make invoices essentially
 
@@ -66,7 +66,7 @@ In addresses, on the top left go to "Receiving" and change it to "Change"
 
 ## Absurdly high fees
 
-Go to view > Show Coins
+Go to ` ``view > Show Coins`` `
 Move to the coins tab
 Select as many as you can with ''Ctrl click''
 Right click and select ''spend''
@@ -96,3 +96,5 @@ They are located just below the big "Installer for Windows" button
 After you download this open it with 7zip or Winrar and extract the files inside.
 
 If you've already done this and it doesn't work, then backup your wallet, save your key and seed, and reinstall
+
+###### [take me back to the hub!](https://cyprian831.github.io/Garlicoin/)
