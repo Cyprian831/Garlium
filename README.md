@@ -40,7 +40,7 @@ Save, and start Garlium.
 
 Pools are at the bottom of this page:https://xske.github.io/garlium/
 
-~~~~~~~~Possible redo of above, awaiting response.~~~~~~~~
+### Possible redo of above, awaiting response.
 
 In Garlium, go to ` ``Tools>Network>Server`` ` Uncheck "Select Server Automatically"
 Grab one of the listed servers (I Suggest `electrum.garlicsoup.xyz 50002`) and insert it in the `Server:` Box.
@@ -64,8 +64,6 @@ Go to `view > Show Coins`
 and `view> Show Addresses`
 In addresses, on the top left go to "Receiving" and change it to "Change"
 
-going to View -> Show Coins. Every "coin" you see there is a UTXO. Select as many as you need to send (don't select more than about 250, though), right click, and press "Spend". Now, select how much you want to spend, and send your money either to yourself (to "merge" UTXOs), or to someone else (they'll receive them as a normal transaction).
-
 ## Absurdly high fees
 
 Go to ` ``view > Show Coins`` `
@@ -73,6 +71,8 @@ Move to the coins tab
 Select as many as you can with ''Ctrl click''
 Right click and select ''spend''
 Select the amount you desire and send it to an address of your own so that it can be sent more effeciently
+
+Try going to View -> Show Coins. Every "coin" you see there is a UTXO. Select as many as you need to send (don't select more than about 250, though), right click, and press "Spend". Now, select how much you want to spend, and send your money either to yourself (to "merge" UTXOs), or to someone else (they'll receive them as a normal transaction).
 
 
 ## Breadbox/GarlicoinWallet Coin Issue.
