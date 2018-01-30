@@ -74,6 +74,8 @@ Select the amount you desire and send it to an address of your own so that it ca
 
 Try going to View -> Show Coins. Every "coin" you see there is a UTXO. Select as many as you need to send by selecting the first one, holding `shift` and tapping `PG DN` (page down) on your keyboard to select about 20 at a time (don't select more than about 250, though), right click, and press "Spend". Now, select how much you want to spend, and send your money either to yourself (to "merge" UTXOs), or to someone else (they'll receive them as a normal transaction).
 
+If consolidating isnt working, try going to ` ``tools>preferences>transactions`` ` and deselect ` ``spend only confirmed coins`` `
+
 
 ## Breadbox/GarlicoinWallet Coin Issue.
 
