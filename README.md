@@ -3,7 +3,7 @@
 (Original fix found by @VeriFone#0710)
 Connection issues with Garlium? This is likely because the nodes you currently have are overloaded. Adding more nodes seems to be the solution.
 
-To add more nodes, shutdown Garlium, press `Win+R > %appdata%/Garlium` and open `recent_servers` in a text editor, and replace what you have with :  
+To add more nodes, shutdown Garlium, press `Win+R > %appdata%/Garlium`on windows and in the `~/.garlium/` for linux and open `recent_servers` in a text editor, and replace what you have with :  
 ```
 ``[  
     "clovemines.fun:50002:s",  
@@ -17,7 +17,10 @@ To add more nodes, shutdown Garlium, press `Win+R > %appdata%/Garlium` and open 
     "electrum.garli.co.in:50002:s",  
     "garlium.garli.co.in:50002:s",
     "garlium.rshaw.space:50002:s",
-    "garlium.garlicpool.org:50002:s"
+    "garlium.garlicpool.org:50002:s",
+    "roflmining.com:50002:s",
+    "174.138.50.151:50002:s",
+    "204.13.51.124:50002:s"
 ]``
 ```
 Save, and start Garlium.
