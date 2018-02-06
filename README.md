@@ -1,3 +1,7 @@
+# My Garlium is broken!
+
+This page should help with almost every issue with garlium once its installed, always feel free to message @Cyprian#2167 if something is not working or if you have any suggestions!
+
 ## Connection Issues
 
 (Original fix found by @VeriFone#0710)
