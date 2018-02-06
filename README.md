@@ -60,7 +60,6 @@ Your old address is still there. Go to ` ``View -> Show addresses`` `
 The switching thing is for anonymity on the receive tab
 Cause you can use the QR code to make invoices essentially
 
-Removed small section because it is unconfirmed that un-checking that box will help.
 ## For Garlium if people are missing their coins or some extra are sent in a transaction
  
 Go to `view > Show Coins`
@@ -81,20 +80,10 @@ you use is not going to tell you accurately what is happening to your wallet.
 This includes random outgoing transactions.
 You will have to check your wallet manually in Breadbox/GarlicWallet if you want to have an accurate
 
-### Cyprians take at above ^
-
-If you are losing coins randomly you might have originally used a breadbox wallet and since switched. 
-You havent actually lost any coins, breadbox is just moving them around to a different address in your wallet. 
-To recover these coins you will have to log on to your online wallet and transfer them out manually.
-
 ## Failed to execute script garlium
 
-Garlium requires the windows binaries to work
-You can download them right here: https://xske.github.io/garlium/
-They are located just below the big "Installer for Windows" button
+Garlium may be corrupted, just redownload the exe and run again to fix this.
 
-After you download this open it with 7zip or Winrar and extract the files inside.
-
-If you've already done this and it doesn't work, then backup your wallet, save your key and seed, and reinstall
+If redownloading doesn't work, try to delete everything in your garlium directory except for your wallet.dat and install fresh
 
 ###### [Take me back to the hub!](https://cyprian831.github.io/Garlicoin/)
