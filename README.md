@@ -7,7 +7,7 @@ This page should help with almost every issue with garlium once its installed, a
 (Original fix found by @VeriFone#0710)
 Connection issues with Garlium? This is likely because the nodes you currently have are overloaded. Adding more nodes seems to be the solution.
 
-To add more nodes, shutdown Garlium, press `Win+R > %appdata%/Garlium`on windows and in the `~/.garlium/` for linux and open `recent_servers` in a text editor, and replace what you have with :  
+To add more nodes, shutdown Garlium, press `Win+R > %appdata%/Garlium` on windows and in the `~/.garlium/` for linux and open `recent_servers` in a text editor, and replace what you have with :  
 ```
 ``[  
     "clovemines.fun:50002:s",  
