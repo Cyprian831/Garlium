@@ -54,6 +54,12 @@ Grab one of the listed servers (I Suggest `electrum.garlicsoup.xyz 50002`) and i
 Click close and restart Garlium, then wait 2~ minutes. If failed, repeat with another server. If none of these work
 check the "Select Servers Automatically" box and restart Garlium.
 
+## Losing all post-fork coins
+
+Go to "tools>network" and make sure youre in the "overview" tab. In the box there should be two dropdown menus, probably already open. Click on the one that has a higher "height" at the right of it and select "Follow this branch"
+
+You should start recieving any garlic you lost right away!
+
 ## For "Server is Lagging" or "the transaction was rejected by network rules.\n\n64: Rejected/non-final"
  
 Press `Win + R` and enter %appdata%/Garlium and delete ` ``blockchain_headers`` `
