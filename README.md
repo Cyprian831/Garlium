@@ -5,6 +5,7 @@ This page should help with almost every issue with garlium once its installed, a
 ## Connection Issues
 
 (Original fix found by @VeriFone#0710)
+
 Connection issues with Garlium? This is likely because the nodes you currently have are overloaded. Adding more nodes seems to be the solution.
 
 To add more nodes, shutdown Garlium, press `Win+R > %appdata%/Garlium` on windows and press `shift-command-g` to go to folder then its under `~/.garlium` for linux and mac and open `recent_servers` in a text editor, and replace what you have with :  
@@ -78,7 +79,7 @@ In addresses, on the top left go to "Receiving" and change it to "Change"
 
 ## Absurdly high fees
 
-Getting an absurdly high fees error? Try going to ` ``View -> Show Coins`` `. Every "coin" you see there is a UTXO. Select as many as you need to send by selecting the first one, holding `shift` and tapping `PG DN` (page down) on your keyboard to select about 20 at a time (don't select more than about 250, though), right click, and press "Spend". Now, select how much you want to spend, and send your money either to yourself (to "merge" UTXOs), or to someone else (they'll receive them as a normal transaction).
+Getting an absurdly high fees error? Try going to "View -> Show Coins". Every "coin" you see there is a UTXO. Select as many as you need to send by selecting the first one, holding "shift" and tapping "PG DN" (page down) on your keyboard to select about 20 at a time (don't select more than about 250, though), right click, and press "Spend". Now, select how much you want to spend, and send your money either to yourself (to "merge" UTXOs), or to someone else (they'll receive them as a normal transaction).
 
 If consolidating wont work, try navigating to ` ``tools>preferences>transactions`` ` and deselect ` ``spend only confirmed coins`` `.
 
