@@ -57,7 +57,7 @@ check the "Select Servers Automatically" box and restart Garlium.
 
 ## Losing all post-fork coins
 
-Go to "tools>network" and make sure youre in the "overview" tab. In the box there should be two dropdown menus, probably already open. Click on the one that has a higher "height" at the right of it and select "Follow this branch"
+Go to "tools>network" and make sure youre in the "overview" tab. In the box there should be two dropdown menus, probably already open. Right click on the dropdown that has a higher "height" at the right of it and select "Follow this branch"
 
 You should start recieving any garlic you lost right away!
 
