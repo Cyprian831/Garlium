@@ -97,4 +97,8 @@ Garlium may be corrupted, just redownload the exe and run again to fix this.
 
 If redownloading doesn't work, try to delete everything in your garlium directory except for your wallet.dat and install fresh
 
+## I can only connect to one node
+
+Press "win+R" and enter ` ``%APPDATA%\Garlium\certs`` `. Once in the certs folder  Rename every file to remove the ".temp" extension from the end of every file.
+
 ###### [Take me back to the hub!](https://cyprian831.github.io/Garlicoin/)
