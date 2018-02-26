@@ -24,8 +24,7 @@ To add more nodes, shutdown Garlium, press `Win+R > %appdata%/Garlium` on window
     "garlium.rshaw.space:50002:s",
     "garlium.garlicpool.org:50002:s",
     "roflmining.com:50002:s",
-    "tuxprint.com:50002:s",
-    "garlicnode.cobbnet.xyz:50002:s"
+    "tuxprint.com:50002:s"
 ]``
 ```
 Save, and start Garlium.
